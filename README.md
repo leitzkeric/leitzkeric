@@ -1,7 +1,7 @@
 <img src = "banner.gif" width = "360px" align = "right">
 
 # Welcome to my GitHub! Good to have you here ;)
-Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui! 
+## Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui! 
 
 Sou analista de dados e desenvolvedor Flutter, formado em Ciências de Computação pela UFRGS.
 
