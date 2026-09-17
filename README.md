@@ -1,9 +1,12 @@
-<img src = "banner.gif" width = "360px" align = "right">
+
 
 # Welcome to my GitHub! Good to have you here ;)
-## Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui! 
+## Seja bem vindo(a) ao meu GitHub! É bom ter você por aqui! 
 
+<img src = "banner.gif" width = "400px" align = "right">
 Sou analista de dados e desenvolvedor Flutter, formado em Ciências de Computação pela UFRGS.
+<br>
+<br>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
